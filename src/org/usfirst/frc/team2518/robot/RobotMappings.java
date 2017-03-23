@@ -16,6 +16,12 @@ public class RobotMappings {
     public static int gearGrabberRchannel = 3;
     public static int controllerUSBport = 0;
 
+    public static object RobotMappings(){
+
+
+
+    }
+
     //Declares what axis are used for what on the controller.
     public static int rotateAxis = 0;
     public static int moveAxis = 5;
